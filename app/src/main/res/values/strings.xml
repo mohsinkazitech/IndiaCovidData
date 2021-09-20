@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Covid Info</string>
+
+    <string name="active">Active</string>
+    <string name="confirm">Confirmed</string>
+    <string name="recover">Recovered</string>
+
+
+    <string name="india">INDIA COVID DATA</string>
+    <string name="delta">Delta</string>
+    <string name="fail">Failed To Get Data</string>
+
+</resources>
